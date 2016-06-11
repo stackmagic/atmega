@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/stackmagic/atmega/releases/download/ide-1.6.x-R1.2/atmega-ide-1.6.x-R1.2-boards-manager.zip",
           "archiveFileName": "atmega-ide-1.6.x-R1.2-boards-manager.zip",
-          "checksum": "SHA-256:...todo: release...",
-          "size": "1233",
+          "checksum": "SHA-256:a9f443d6e42298c4106e123081fede225266e55b207a579383eb60f536d3f3e0",
+          "size": "1702",
           "boards": [
             {"name": "ATmega8"},
             {"name": "ATmega168"},
