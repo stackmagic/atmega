@@ -2,8 +2,8 @@
   "packages": [
     {
       "name": "atmega",
-      "maintainer": "Carlos Rodrigues",
-      "websiteURL": "https://github.com/carlosefr/atmega",
+      "maintainer": "Patrick Huber",
+      "websiteURL": "https://github.com/stackmagic/atmega",
       "email": "",
       "help": {
         "online": ""
@@ -13,11 +13,11 @@
           "name": "Barebones ATmega Chips (no bootloader)",
           "architecture": "avr",
           "version": "1.2.0",
-          "category": "atmega",
+          "§tegory": "atmega",
           "help": {
             "online": ""
           },
-          "url": "https://github.com/carlosefr/atmega/releases/download/ide-1.6.x-R1.2/atmega-ide-1.6.x-R1.2-boards-manager.zip",
+          "url": "https://github.com/stackmagic/atmega/releases/download/ide-1.6.x-R1.2/atmega-ide-1.6.x-R1.2-boards-manager.zip",
           "archiveFileName": "atmega-ide-1.6.x-R1.2-boards-manager.zip",
           "checksum": "SHA-256:...todo: release...",
           "size": "1233",
